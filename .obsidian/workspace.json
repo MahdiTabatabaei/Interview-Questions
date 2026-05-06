@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "0f7536bd6799f0af",
+    "type": "split",
+    "children": [
+      {
+        "id": "537ea9290dea5f73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84a210cdc264f6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - ASP.NET Core/1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1"
+            }
+          },
+          {
+            "id": "1f00e3bfb7a16586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0 - CSharp – Language Fundamentals"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f89c3ac9b68c87d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "03d55146c5d4da4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd7366b8d8aa2248",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bf5f20d2cbe22b26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "841cd2dbdcafdf1d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "962c13af4b7c4027",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0b6c600faea1c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5603fea20a393aa7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Csharp Answers/Answer-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Answer-2"
+            }
+          },
+          {
+            "id": "8bc1ec90e4b72c2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Csharp Answers/Answer-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Answer-2"
+            }
+          },
+          {
+            "id": "9eb09cc8b39baac5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "471e0efceebfbaec",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1866625cc917ecae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Csharp Answers/Answer-2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Answer-2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f00e3bfb7a16586",
+  "lastOpenFiles": [
+    "1 - CSharp – Language Fundamentals/182.md",
+    "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
+    "12 - Solvable problems/2.md",
+    "12 - Solvable problems/0 - Solvable problems.md",
+    "11 - General/0 - General.md",
+    "4 - Database/Helps/VACUUM.md",
+    "4 - Database/Helps/Statistics.md",
+    "4 - Database/Helps/Bottleneck.md",
+    "4 - Database/Helps/Concurrency.md",
+    "4 - Database/Helps/Parallelism.md",
+    "4 - Database/Helps/B‑Tree.md",
+    "4 - Database/0 - Database.md",
+    "3 - Design Pattern/0 - Design Pattern.md",
+    "2 - Architecture/0 - Architecture.md",
+    "1 - CSharp – Language Fundamentals/10.md",
+    "1 - CSharp – Language Fundamentals/1.md",
+    "5 - ASP.NET Core/0 - ASP.NET Core.md",
+    "5 - ASP.NET Core/1.md",
+    "Untitled.canvas",
+    "2026-04-29.md",
+    "2 - Architecture/114.md",
+    "7 - SignalR/0 - SignalR.md",
+    "8 - Massage Brokers/0 - Massage Brokers.md",
+    "8 - Massage Brokers/59.md",
+    "8 - Massage Brokers/58.md",
+    "8 - Massage Brokers/57.md",
+    "8 - Massage Brokers/56.md",
+    "8 - Massage Brokers/Helps",
+    "7 - SignalR/Helps",
+    "12 - Solvable problems",
+    "Untitled.base",
+    "3 - Design Pattern/Helps",
+    "4 - Database/Images/27_Selectivity.png",
+    "6 - EF Core/Helps",
+    "1 - CSharp – Language Fundamentals/Helps",
+    "1 - CSharp – Language Fundamentals/New folder",
+    "8 - Massage Brokers/Images/3_difference_Kafka_VS_RabbitMQ_VS_ServiceBus.png",
+    "8 - Massage Brokers/Images/Pasted image 20260406015555.png",
+    "Pasted image 20260406015555.png",
+    "8 - Massage Brokers/Images/2_difference_MessageBroker_VS_MessageBus.png",
+    "8 - Massage Brokers/Images/Pasted image 20260406015122.png",
+    "Pasted image 20260406015122.png",
+    "4 - Database/Images/26_IsolationLevel.png",
+    "4 - Database/Images/Pasted image 20260406014043.png",
+    "Pasted image 20260406014043.png",
+    "11 - General",
+    "10 - Identity/Images"
+  ]
+}
