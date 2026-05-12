@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "537ea9290dea5f73",
+        "id": "8067d108f3522dfa",
         "type": "tabs",
         "children": [
           {
-            "id": "84a210cdc264f6df",
+            "id": "400e3eac97143a54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 - ASP.NET Core/1.md",
+                "file": "1 - CSharp – Language Fundamentals/11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1"
-            }
-          },
-          {
-            "id": "1f00e3bfb7a16586",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0 - CSharp – Language Fundamentals"
+              "title": "11"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SOLID",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,10 +183,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "1f00e3bfb7a16586",
+  "active": "400e3eac97143a54",
   "lastOpenFiles": [
-    "1 - CSharp – Language Fundamentals/182.md",
+    "1 - CSharp – Language Fundamentals/Images/11_LSP_02.png",
+    "1 - CSharp – Language Fundamentals/Images/11_LSP_01.png",
+    "1 - CSharp – Language Fundamentals/Images/Pasted image 20260508230654.png",
+    "1 - CSharp – Language Fundamentals/Images/Pasted image 20260508230534.png",
+    "Pasted image 20260508230654.png",
+    "Pasted image 20260508230534.png",
     "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
+    "3 - Design Pattern/0 - Design Pattern.md",
+    "1 - CSharp – Language Fundamentals/182.md",
     "12 - Solvable problems/2.md",
     "12 - Solvable problems/0 - Solvable problems.md",
     "11 - General/0 - General.md",
@@ -212,7 +204,6 @@
     "4 - Database/Helps/Parallelism.md",
     "4 - Database/Helps/B‑Tree.md",
     "4 - Database/0 - Database.md",
-    "3 - Design Pattern/0 - Design Pattern.md",
     "2 - Architecture/0 - Architecture.md",
     "1 - CSharp – Language Fundamentals/10.md",
     "1 - CSharp – Language Fundamentals/1.md",
@@ -226,7 +217,6 @@
     "8 - Massage Brokers/59.md",
     "8 - Massage Brokers/58.md",
     "8 - Massage Brokers/57.md",
-    "8 - Massage Brokers/56.md",
     "8 - Massage Brokers/Helps",
     "7 - SignalR/Helps",
     "12 - Solvable problems",
@@ -240,11 +230,6 @@
     "8 - Massage Brokers/Images/Pasted image 20260406015555.png",
     "Pasted image 20260406015555.png",
     "8 - Massage Brokers/Images/2_difference_MessageBroker_VS_MessageBus.png",
-    "8 - Massage Brokers/Images/Pasted image 20260406015122.png",
-    "Pasted image 20260406015122.png",
-    "4 - Database/Images/26_IsolationLevel.png",
-    "4 - Database/Images/Pasted image 20260406014043.png",
-    "Pasted image 20260406014043.png",
     "11 - General",
     "10 - Identity/Images"
   ]
