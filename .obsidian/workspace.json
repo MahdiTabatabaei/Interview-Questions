@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8067d108f3522dfa",
+        "id": "6f485bb6edd3c377",
         "type": "tabs",
         "children": [
           {
-            "id": "400e3eac97143a54",
+            "id": "da88f4357e74feef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - CSharp – Language Fundamentals/11.md",
+                "file": "8 - Massage Brokers/0 - Massage Brokers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11"
+              "title": "0 - Massage Brokers"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SOLID",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 310.5
   },
   "right": {
     "id": "962c13af4b7c4027",
@@ -183,40 +183,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "400e3eac97143a54",
+  "active": "da88f4357e74feef",
   "lastOpenFiles": [
-    "1 - CSharp – Language Fundamentals/Images/11_LSP_02.png",
-    "1 - CSharp – Language Fundamentals/Images/11_LSP_01.png",
-    "1 - CSharp – Language Fundamentals/Images/Pasted image 20260508230654.png",
-    "1 - CSharp – Language Fundamentals/Images/Pasted image 20260508230534.png",
-    "Pasted image 20260508230654.png",
-    "Pasted image 20260508230534.png",
-    "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
-    "3 - Design Pattern/0 - Design Pattern.md",
-    "1 - CSharp – Language Fundamentals/182.md",
-    "12 - Solvable problems/2.md",
-    "12 - Solvable problems/0 - Solvable problems.md",
-    "11 - General/0 - General.md",
-    "4 - Database/Helps/VACUUM.md",
-    "4 - Database/Helps/Statistics.md",
-    "4 - Database/Helps/Bottleneck.md",
-    "4 - Database/Helps/Concurrency.md",
-    "4 - Database/Helps/Parallelism.md",
-    "4 - Database/Helps/B‑Tree.md",
-    "4 - Database/0 - Database.md",
-    "2 - Architecture/0 - Architecture.md",
-    "1 - CSharp – Language Fundamentals/10.md",
-    "1 - CSharp – Language Fundamentals/1.md",
-    "5 - ASP.NET Core/0 - ASP.NET Core.md",
-    "5 - ASP.NET Core/1.md",
-    "Untitled.canvas",
-    "2026-04-29.md",
-    "2 - Architecture/114.md",
-    "7 - SignalR/0 - SignalR.md",
+    "8 - Massage Brokers/65.md",
     "8 - Massage Brokers/0 - Massage Brokers.md",
-    "8 - Massage Brokers/59.md",
-    "8 - Massage Brokers/58.md",
-    "8 - Massage Brokers/57.md",
+    "8 - Massage Brokers/61.md",
+    "4 - Database/0 - Database.md",
+    "4 - Database/163.md",
+    "4 - Database/161.md",
+    "4 - Database/162.md",
+    "4 - Database/165.md",
+    "4 - Database/166.md",
+    "4 - Database/164.md",
+    "4 - Database/39.md",
+    "4 - Database/27.md",
+    "4 - Database/13.md",
+    "1 - CSharp – Language Fundamentals/206.md",
+    "1 - CSharp – Language Fundamentals/202.md",
+    "1 - CSharp – Language Fundamentals/0 - CSharp – Language Fundamentals.md",
+    "1 - CSharp – Language Fundamentals/203.md",
+    "1 - CSharp – Language Fundamentals/170.md",
+    "1 - CSharp – Language Fundamentals/169.md",
+    "1 - CSharp – Language Fundamentals/168.md",
+    "1 - CSharp – Language Fundamentals/121.md",
+    "1 - CSharp – Language Fundamentals/120.md",
+    "1 - CSharp – Language Fundamentals/100.md",
+    "1 - CSharp – Language Fundamentals/74.md",
+    "1 - CSharp – Language Fundamentals/73.md",
+    "1 - CSharp – Language Fundamentals/71.md",
+    "2 - Architecture/Helps",
+    "Interview-Questions",
+    "Untitled.canvas",
     "8 - Massage Brokers/Helps",
     "7 - SignalR/Helps",
     "12 - Solvable problems",
@@ -230,7 +227,10 @@
     "8 - Massage Brokers/Images/Pasted image 20260406015555.png",
     "Pasted image 20260406015555.png",
     "8 - Massage Brokers/Images/2_difference_MessageBroker_VS_MessageBus.png",
-    "11 - General",
-    "10 - Identity/Images"
+    "8 - Massage Brokers/Images/Pasted image 20260406015122.png",
+    "Pasted image 20260406015122.png",
+    "4 - Database/Images/26_IsolationLevel.png",
+    "4 - Database/Images/Pasted image 20260406014043.png",
+    "Pasted image 20260406014043.png"
   ]
 }

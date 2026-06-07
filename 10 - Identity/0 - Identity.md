@@ -32,42 +32,45 @@
 30 - مفهوم Implicit Flow چیست و چرا امروزه کمتر استفاده می‌شود؟ [[10 - Identity/30|30]]
 31 - مفهوم Device Flow چیست و در چه سناریوهایی استفاده می‌شود؟ [[10 - Identity/31|31]]
 32 - مفهوم PKCE چیست و چرا برای SPA مهم است؟ [[10 - Identity/32|32]]
-33 - تعریف OpenID Connect چیست و چه تفاوتی با OAuth 2.0 دارد؟[[Interview Questions/10 - Identity/33|33]]
-34 - مفهوم ID Token در OpenID Connect چه کاربردی دارد؟[[Interview Questions/10 - Identity/34|34]]
-35 - مفهوم UserInfo Endpoint چیست؟[[Interview Questions/10 - Identity/35|35]]
-36 - مفهوم Discovery Endpoint چیست؟[[Interview Questions/10 - Identity/36|36]]
-37 - مفهوم Scopes در OpenID Connect چه مفهومی دارند؟[[Interview Questions/10 - Identity/37|37]]
-38 - چگونه پروفایل کاربر در OpenID Connect دریافت می‌شود؟[[Interview Questions/10 - Identity/38|38]]
-39 - تعریف IdentityServer چیست و چه نقشی در معماری سیستم دارد؟[[Interview Questions/10 - Identity/39|39]]
-40 - ابزار IdentityServer چگونه OAuth و OpenID Connect را پیاده‌سازی می‌کند؟[[Interview Questions/10 - Identity/40|40]]
-41 - ویژگی Client در IdentityServer چیست؟[[Interview Questions/10 - Identity/41|41]]
-42 - مفهوم API Resource در IdentityServer چیست؟[[Interview Questions/10 - Identity/42|42]]
-43 - تعریف Identity Resource چیست؟[[Interview Questions/10 - Identity/43|43]]
-44 - تعریف Scope در IdentityServer چه مفهومی دارد؟[[Interview Questions/10 - Identity/44|44]]
-45 - چگونه یک Client در IdentityServer تعریف می‌کنید؟[[Interview Questions/10 - Identity/45|45]]
-46 - چگونه API را با IdentityServer محافظت می‌کنید؟[[Interview Questions/10 - Identity/46|46]]
-47 - چگونه Access Token را در API اعتبارسنجی می‌کنید؟[[Interview Questions/10 - Identity/47|47]]
-48 - چگونه Refresh Token در IdentityServer کار می‌کند؟[[Interview Questions/10 - Identity/48|48]]
-49 - چگونه Single Sign-On (SSO) در IdentityServer پیاده‌سازی می‌شود؟[[Interview Questions/10 - Identity/50|50]]
-50 - چگونه Single Logout در IdentityServer انجام می‌شود؟[[Interview Questions/10 - Identity/50|50]]
-51 - چگونه Claims سفارشی به Token اضافه می‌کنید؟[[Interview Questions/10 - Identity/51|51]]
-52 - چگونه از Database برای ذخیره Clients و Resources استفاده می‌کنید؟[[Interview Questions/10 - Identity/52|52]]
-53 - چگونه از CSRF در سیستم‌های احراز هویت جلوگیری می‌کنید؟[[Interview Questions/10 - Identity/53|53]]
-54 - چگونه از حملات XSS در سیستم‌های احراز هویت جلوگیری می‌کنید؟[[Interview Questions/10 - Identity/54|54]]
-55 - چگونه از حملات Brute Force جلوگیری می‌کنید؟[[Interview Questions/10 - Identity/55|55]]
-56 - مفهوم Token Introspection چیست؟[[Interview Questions/10 - Identity/56|56]]
-57 - مفهوم Token Signing و Validation چیست؟[[Interview Questions/10 - Identity/57|57]]
-58 - تفاوت بین symmetric و asymmetric signing چیست؟[[Interview Questions/10 - Identity/58|58]]
-59 - در معماری microservices چرا از IdentityServer استفاده می‌کنیم؟[[Interview Questions/10 - Identity/59|59]]
-60 - چگونه احراز هویت مرکزی (Centralized Authentication) طراحی می‌کنید؟[[Interview Questions/10 - Identity/60|60]]
-61 - چگونه چندین API را با یک Identity Provider امن می‌کنید؟[[Interview Questions/10 - Identity/61|61]]
-62 - چگونه Multi-Tenant Authentication طراحی می‌کنید؟[[Interview Questions/10 - Identity/62|62]]
-63 - چگونه IdentityServer را در Kubernetes یا Cloud deploy می‌کنید؟[[Interview Questions/10 - Identity/63|63]]
-64 - چگونه High Availability برای Identity Server فراهم می‌کنید؟[[Interview Questions/10 - Identity/64|64]]
-65 - تفاوت  ASP.NET  Identity با IdentityServer چیست؟[[Interview Questions/10 - Identity/65|65]]
-66 - تفاوت IdentityServer با Azure AD چیست؟[[Interview Questions/10 - Identity/66|66]]
-67 - تفاوت IdentityServer با Keycloak چیست؟[[Interview Questions/10 - Identity/67|67]]
-68 - تفاوت Authentication Cookie با JWT چیست؟[[Interview Questions/10 - Identity/68|68]]
-69 - چه زمانی Cookie-based Authentication بهتر از Token-based است؟[[Interview Questions/10 - Identity/69|69]]
-70 - معماری **Keycloak در Microservices** چگونه کار می‌کند؟[[Interview Questions/10 - Identity/70|70]]
-71 - تعریف Token Theft چیست ؟[[Interview Questions/4 - Database/71|71]]
+33 - تعریف OpenID Connect چیست و چه تفاوتی با OAuth 2.0 دارد؟
+34 - مفهوم ID Token در OpenID Connect چه کاربردی دارد؟
+35 - مفهوم UserInfo Endpoint چیست؟
+36 - مفهوم Discovery Endpoint چیست؟
+37 - مفهوم Scopes در OpenID Connect چه مفهومی دارند؟
+38 - چگونه پروفایل کاربر در OpenID Connect دریافت می‌شود؟
+39 - تعریف IdentityServer چیست و چه نقشی در معماری سیستم دارد؟
+40 - ابزار IdentityServer چگونه OAuth و OpenID Connect را پیاده‌سازی می‌کند؟
+41 - ویژگی Client در IdentityServer چیست؟
+42 - مفهوم API Resource در IdentityServer چیست؟
+43 - تعریف Identity Resource چیست؟
+44 - تعریف Scope در IdentityServer چه مفهومی دارد؟
+45 - چگونه یک Client در IdentityServer تعریف می‌کنید؟
+46 - چگونه API را با IdentityServer محافظت می‌کنید؟
+47 - چگونه Access Token را در API اعتبارسنجی می‌کنید؟
+48 - چگونه Refresh Token در IdentityServer کار می‌کند؟
+49 - چگونه Single Sign-On (SSO) در IdentityServer پیاده‌سازی می‌شود؟
+50 - چگونه Single Logout در IdentityServer انجام می‌شود؟
+51 - چگونه Claims سفارشی به Token اضافه می‌کنید؟
+52 - چگونه از Database برای ذخیره Clients و Resources استفاده می‌کنید؟
+53 - چگونه از CSRF در سیستم‌های احراز هویت جلوگیری می‌کنید؟
+54 - چگونه از حملات XSS در سیستم‌های احراز هویت جلوگیری می‌کنید؟
+55 - چگونه از حملات Brute Force جلوگیری می‌کنید؟
+56 - مفهوم Token Introspection چیست؟
+57 - مفهوم Token Signing و Validation چیست؟
+58 - تفاوت بین symmetric و asymmetric signing چیست؟
+59 - در معماری microservices چرا از IdentityServer استفاده می‌کنیم؟
+60 - چگونه احراز هویت مرکزی (Centralized Authentication) طراحی می‌کنید؟
+61 - چگونه چندین API را با یک Identity Provider امن می‌کنید؟
+62 - چگونه Multi-Tenant Authentication طراحی می‌کنید؟
+63 - چگونه IdentityServer را در Kubernetes یا Cloud deploy می‌کنید؟
+64 - چگونه High Availability برای Identity Server فراهم می‌کنید؟
+65 - تفاوت  ASP.NET  Identity با IdentityServer چیست؟
+66 - تفاوت IdentityServer با Azure AD چیست؟
+67 - تفاوت IdentityServer با Keycloak چیست؟
+68 - تفاوت Authentication Cookie با JWT چیست؟
+69 - چه زمانی Cookie-based Authentication بهتر از Token-based است؟
+70 - معماری **Keycloak در Microservices** چگونه کار می‌کند؟
+71 - تعریف Token Theft چیست ؟
+72 - تعاریف JWT Self-contained و JWT Introspection چیست و تفاوت هرکدام چه میباشد؟
+73 - تفاوت Access Token و Refresh Token چیست؟
+

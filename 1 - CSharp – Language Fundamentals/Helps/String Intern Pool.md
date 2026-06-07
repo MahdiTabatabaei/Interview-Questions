@@ -108,9 +108,9 @@ True
 
 ---
 
-# ارتباط مهم با Immutable بودن string
+# ارتباط مهم با [[196 | Immutable]] بودن string
 
-در واقع String Pool فقط به این دلیل ممکن است که **string immutable است**.
+در واقع String Pool فقط به این دلیل ممکن است که **string [[196 | Immutable]] است**.
 
 اگر mutable بود:
 
@@ -128,7 +128,7 @@ a[0] = 'Y'
 ```
 آن وقت `b` هم تغییر می‌کرد → که فاجعه است.
 
-پس immutable بودن شرط اصلی **String Intern Pool** است.
+پس [[196 | Immutable]] بودن شرط اصلی **String Intern Pool** است.
 
 ---
 

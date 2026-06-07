@@ -1,8 +1,10 @@
+
+
 1 - تعریف SignalR چیست و چه مشکلی را حل می‌کند؟ [[7 - SignalR/1|1]]
 2 - تفاوت SignalR با WebSocket چیست؟ [[7 - SignalR/2|2]]
 3 - چه زمانی از SignalR استفاده می‌کنیم؟ [[7 - SignalR/3|3]]
 4 - در SignalR چگونه ارتباط Real‑Time را برقرار می‌کند؟ [[7 - SignalR/4|4]]
-5 - پروتکل‌های پشتیبانی‌شده در SignalR چیست و ترتیب fallback چگونه است؟ [[7 - SignalR/5|5]]  [[fallback]] [[Long Polling]]
+5 - پروتکل‌های پشتیبانی‌شده در SignalR چیست و ترتیب fallback چگونه است؟ [[7 - SignalR/5|5]]  [[fallback]]
 6 - تعریف Hub در SignalR چیست و چه کاربردی دارد؟ [[7 - SignalR/6|6]]
 7 - استفاده کننده Client در SignalR چگونه به Hub متصل می‌شود؟ [[7 - SignalR/7|7]]
 8 - چرا از متدهای async در Hub استفاده می‌شود؟ [[7 - SignalR/8|8]]

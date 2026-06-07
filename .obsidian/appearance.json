@@ -1,3 +1,6 @@
 {
-  "textFontFamily": "IRANSansX"
+  "textFontFamily": "IRANSansX",
+  "enabledCssSnippets": [
+    "code-direction-ltr"
+  ]
 }

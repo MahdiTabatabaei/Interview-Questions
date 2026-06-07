@@ -1,0 +1,10 @@
+   /* همیشه جهت نمایش کد داخل code block ها چپ به راست (LTR) */
+   .markdown-preview-view pre,
+   .markdown-source-view.mod-cm6 pre,
+   .desktop-inline-code,
+   code,
+   pre {
+     direction: ltr !important;
+     text-align: left !important;
+     unicode-bidi: plaintext !important;
+   }
